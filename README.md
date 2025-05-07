@@ -1,5 +1,5 @@
 ![image alt](https://github.com/MirasolDPancho/ITBAN2_Sreamlit_Activity_Pancho/blob/ba08bd6862aaedf2bfb5287e8c2d134437b24631/Screenshot%20(5).png)
-![image alt]()
+![image alt](https://github.com/MirasolDPancho/ITBAN2_Sreamlit_Activity_Pancho/blob/8c4b73f1fa899b675350ad54d75935216ace908f/activity.py)
 Task 1
 This Streamlit app collects user information through a form, including name, age, address, email, and a 4-digit PIN. It validates the email format using a regular expression and ensures the PIN is exactly four digits. Upon successful validation, it displays the submitted data with the PIN masked for privacy.
 ![image alt]()
